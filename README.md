@@ -1,2 +1,2 @@
-# probability_statistics
-probability_statistics_basic
+# probability_statistics 
+probability_statistics_basic by multicampus
